@@ -1,1 +1,1 @@
-# disgn_patterns
+# design_patterns
